@@ -22,7 +22,12 @@ Java3DPrint is still work in progress...
 
 OpenBuildSystem is still work in progress...
 
-<!--
+## Virtual file system
+A virtual file system, that can be used both in memory, local and remote files. Easy to use interface. Textual and binary files.
+Work in progress...
+
+
 ## Digital dna
 Digital dna is an experiment to represent data in an abstract, structured, flexible and efficient format consisting of four base values instead of the normal two binary values. The four values are BEGIN, END, TRUE and FALSE. This way data is represented as a tree and can travesed in a flexible way.
--->
+
+Work in progress...
