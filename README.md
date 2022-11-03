@@ -8,7 +8,7 @@ It outputs files in the .scad format, that can be viewed in OpenSCAD. OpenSCAD a
 
 JavaOpenSCAD will soon be relased in version 1.0
 
-### Work in progress
+### Work in progress (these repositories are currently private, but will be made public as they are getting done)
 
 [JavaCSG](https://github.com/abstractica-org/JavaOpenSCAD) is a layer on top of [JavaOpenSCAD](https://github.com/abstractica-org/JavaOpenSCAD) that extends the basic functionality with shapes and helper functions. It does not mimic OpenSCAD, but instead tries to give a flexible and easy way to work with CSG through a java interface. 
 
